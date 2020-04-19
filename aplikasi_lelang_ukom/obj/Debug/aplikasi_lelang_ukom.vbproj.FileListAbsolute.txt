@@ -1,0 +1,17 @@
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\bin\Debug\aplikasi_lelang_ukom.exe
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\bin\Debug\aplikasi_lelang_ukom.pdb
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\bin\Debug\aplikasi_lelang_ukom.xml
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\ResolveAssemblyReference.cache
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\aplikasi_lelang_ukom.Form1.resources
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\aplikasi_lelang_ukom.Resources.resources
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\aplikasi_lelang_ukom.vbproj.GenerateResource.Cache
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\aplikasi_lelang_ukom.exe
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\aplikasi_lelang_ukom.xml
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\aplikasi_lelang_ukom.pdb
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\bin\Debug\Guna.UI.dll
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\bin\Debug\Guna.UI.pdb
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\aplikasi_lelang_ukom.menuutama.resources
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\aplikasi_lelang_ukom.masyarakat.resources
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\aplikasi_lelang_ukom.petugas.resources
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\aplikasi_lelang_ukom.barang.resources
+D:\Rifki\aplikasi 2\aplikasi_lelang_ukom\aplikasi_lelang_ukom\obj\Debug\aplikasi_lelang_ukom.lelang.resources
